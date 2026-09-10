@@ -39,12 +39,12 @@
 <img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/13d6a5af-8d18-4d56-8897-90c69fe97aca" />
 
 ---
-### 4. Docked Stock Inspector & Deep Fundamentals
+### 3. Docked Stock Inspector & Deep Fundamentals
 <img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/a7a87f42-898e-47de-ac75-26b8bd4513da" />
 
 ---
 
-### 5. Mobile & Tablet Responsive Layout
+### 4. Mobile & Tablet Responsive Layout
 <img width="452" height="926" alt="image" src="https://github.com/user-attachments/assets/faf38d53-0bb7-4cb4-8870-995f0d78c34b" />
 
 
