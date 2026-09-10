@@ -310,12 +310,12 @@ export const Navbar: React.FC<NavbarProps> = ({
               onError={(e) => {
                 (e.target as HTMLElement).style.display = 'none';
               }}
-              alt="Anya Sharma"
+              alt="Rakesh Kumar"
               className="w-7 h-7 sm:w-8 sm:h-8 rounded-full object-cover border border-[#7C5CFC]/40 shrink-0"
             />
             <div className="hidden xl:flex flex-col text-left">
               <span className="text-xs font-medium text-white leading-tight">
-                Anya Sharma
+                Rakesh Kumar
               </span>
               <span className="font-heading text-[9px] text-[#7C5CFC] tracking-wider uppercase font-semibold">
                 Fund Pro
