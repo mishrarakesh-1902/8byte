@@ -23,8 +23,12 @@
 <!-- PASTE YOUR APPLICATION SCREENSHOTS BELOW -->
 
 ### 1. Main Dashboard & Terminal Overview
-![Dashboard Overview Screenshot](https://raw.githubusercontent.com/mishrarakesh-1902/8byte/main/public/dashboard_screen.png)
-*(Main overview showing real-time KPI cards, 3D Hologram, Sector Donut, and Grouped Holdings Table)*
+<img width="1916" height="920" alt="image" src="https://github.com/user-attachments/assets/5b66d882-2bef-45a2-8e7c-82e6716ecee0" />
+
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/13d6a5af-8d18-4d56-8897-90c69fe97aca" />
+
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/a7a87f42-898e-47de-ac75-26b8bd4513da" />
+
 
 ---
 
